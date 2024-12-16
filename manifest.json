@@ -1,0 +1,14 @@
+
+{
+    "short_name": "Moviez", 
+    "name": "Moviez - Movie Tracker",
+    "icons": [
+      {
+        "src": "/static/icons/a2-512x512.png",
+        "sizes": "512x512"
+        "type": "image/png"
+      },
+      {
+        "src": "/static/icons/favicon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
